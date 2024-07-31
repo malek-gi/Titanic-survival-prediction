@@ -1,5 +1,5 @@
 # Titanic-survival-prediction
-Passenger survival prediction using demographic and socioeconomic data [
+Passenger survival prediction using demographic and socioeconomic data :
       Programming Languages (Python), 
       Libraries (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn),
       Tools (Jupyter Notebook, GitHub),
